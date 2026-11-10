@@ -1,0 +1,11 @@
+# Documentation/reference configuration. CLI flags can override these values.
+seed: 42
+orders: 100000
+customers: 1000
+hot_customer_id: C000001
+skew_fraction: 0.65
+salt_buckets: 16
+benchmark_repetitions: 3
+spark_master: local[*]
+shuffle_partitions: 8
+adaptive_query_execution: true
