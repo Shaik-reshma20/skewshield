@@ -67,7 +67,7 @@ java -version
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skewshield.git
+git clone https://github.com/Shaik-reshma20/skewshield.git
 cd skewshield
 python -m venv .venv
 source .venv/bin/activate
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/skewshield.git
+git clone https://github.com/Shaik-reshma20/skewshield.git
 cd skewshield
 py -m venv .venv
 .venv\Scripts\Activate.ps1
